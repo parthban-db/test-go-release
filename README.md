@@ -311,3 +311,6 @@ MIT
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
+
+## Version
+version 0.2.0
